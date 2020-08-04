@@ -1,6 +1,6 @@
 ## KEEPER APP
 A Full Stack MERN website KeeperAPP for user to store notes or data. Its a simple Web App template that can be used in website development.
-<img size="1438" alt="ss" src="./src/img/Screenshot from 2020-08-02 02-29-49.png">
+<img size="1200" alt="ss" src="./src/img/Screenshot from 2020-08-02 02-29-49.png">
 <small> This project will be hosted soon</small>
 <h2> Installation </h2>
 
@@ -38,4 +38,4 @@ After setting up the project, run the project using:
 </ul>
 <img src="./src/img/img1.png">
 
-Server runs on the `http://localhost:4000`
+Server runs on `http://localhost:4000`
